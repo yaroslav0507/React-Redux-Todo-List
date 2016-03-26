@@ -1,6 +1,7 @@
 # React-redux Todo List
 <img width="100px" align="right" src="http://www.myiconfinder.com/uploads/iconsets/256-256-c0829a49b2acd49adeab380f70eb680a-accept.png"/>
 
+Demo: http://yaroslav0507.github.io/reduxtodo/
 ## Stack of technologies
 - [WebPack](https://webpack.github.io/);
 - [React JS](https://facebook.github.io/react/);

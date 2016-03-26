@@ -1,22 +1,23 @@
 {
   "name": "react-redux-todo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Todo list application written with usage of React.js and redux data flow pattern",
   "main": "index.js",
+  "keywords": ["react", "redux", "todo", "todo mvc", "webpack", "material ui"],
   "scripts": {
     "start": "webpack && webpack-dev-server",
     "test": "karma start"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yaroslav0507/projectX.git"
+    "url": "git+https://github.com/yaroslav0507/React-Redux-Todo-List"
   },
   "author": "Yaroslav Zaklinsky",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yaroslav0507/projectX/issues"
+    "url": "https://github.com/yaroslav0507/React-Redux-Todo-List/issues"
   },
-  "homepage": "https://github.com/yaroslav0507/projectX#readme",
+  "homepage": "https://github.com/yaroslav0507/React-Redux-Todo-List#readme",
   "dependencies": {
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-stage-0": "^6.3.13",

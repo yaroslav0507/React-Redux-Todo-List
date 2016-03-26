@@ -1,6 +1,7 @@
 # React-redux Todo List
 <img width="100px" align="right" src="http://www.myiconfinder.com/uploads/iconsets/256-256-c0829a49b2acd49adeab380f70eb680a-accept.png"/>
 
+Demo: http://yaroslav0507.github.io/reduxtodo/
 ## Stack of technologies
 - [WebPack](https://webpack.github.io/);
 - [React JS](https://facebook.github.io/react/);
@@ -12,8 +13,7 @@
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
-$ git clone https://git.epam.com/yaroslav_zaklinskyi/js_mentoring_kyiv_2016.git # or clone your own fork
-$ cd js_mentoring_kyiv_2016/Module2/Hw3-4/
+$ git clone https://github.com/yaroslav0507/React-Redux-Todo-List.git # or clone your own fork
 $ npm install
 $ npm start
 ```

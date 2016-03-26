@@ -13,8 +13,7 @@ Demo: http://yaroslav0507.github.io/reduxtodo/
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
-$ git clone https://git.epam.com/yaroslav_zaklinskyi/js_mentoring_kyiv_2016.git # or clone your own fork
-$ cd js_mentoring_kyiv_2016/Module2/Hw3-4/
+$ git clone https://github.com/yaroslav0507/React-Redux-Todo-List.git # or clone your own fork
 $ npm install
 $ npm start
 ```
